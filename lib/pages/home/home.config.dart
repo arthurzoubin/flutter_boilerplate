@@ -1,0 +1,1 @@
+const String HomePageTitle = "Flutter Boilerplate Home Page";
