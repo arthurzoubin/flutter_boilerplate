@@ -2,9 +2,9 @@ import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
+import 'package:flutter_boilerplate/application.dart';
 import 'package:flutter_boilerplate/bloC/home.bloc.dart';
 import 'package:flutter_boilerplate/bloc/theme.bloc.dart';
-import 'package:flutter_boilerplate/navigation/application.dart';
 import 'package:flutter_boilerplate/navigation/routes.dart';
 
 class Home extends StatelessWidget {
