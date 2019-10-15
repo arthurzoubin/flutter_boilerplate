@@ -1,4 +1,4 @@
-import 'package:flutter_boilerplate/model/search/search.item.dart';
+import 'package:flutter_boilerplate/model/search/search_item.dart';
 
 class SearchList {
   final List<SearchItem> items;

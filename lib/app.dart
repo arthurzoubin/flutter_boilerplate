@@ -4,9 +4,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'package:flutter_boilerplate/application.dart';
 import 'package:flutter_boilerplate/navigation/routes.dart';
-import 'package:flutter_boilerplate/bloC/home.bloc.dart';
-import 'package:flutter_boilerplate/bloc/search_bloc/search.bloc.dart';
-import 'package:flutter_boilerplate/bloc/theme.bloc.dart';
+import 'package:flutter_boilerplate/bloC/home_bloc.dart';
+import 'package:flutter_boilerplate/bloc/search_bloc/search_bloc.dart';
+import 'package:flutter_boilerplate/bloc/theme_bloc.dart';
 import 'package:flutter_boilerplate/themes/themes.dart';
 
 Widget createApp() {

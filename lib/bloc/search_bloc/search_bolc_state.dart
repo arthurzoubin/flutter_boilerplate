@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_boilerplate/model/search/search.item.dart';
+import 'package:flutter_boilerplate/model/search/search_item.dart';
 
 abstract class GithubSearchState extends Equatable {
   GithubSearchState([List props = const []]) : super(props);

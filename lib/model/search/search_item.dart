@@ -1,4 +1,4 @@
-import 'package:flutter_boilerplate/model/github/gihub.user.dart';
+import 'package:flutter_boilerplate/model/github/gihub_user.dart';
 
 class SearchItem {
   final String fullName;

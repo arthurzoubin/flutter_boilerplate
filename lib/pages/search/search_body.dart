@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:flutter_boilerplate/bloc/search_bloc/search.bloc.dart';
-import 'package:flutter_boilerplate/bloc/search_bloc/search.bolc.state.dart';
-import 'package:flutter_boilerplate/pages/search/search.list.dart';
+import 'package:flutter_boilerplate/bloc/search_bloc/search_bloc.dart';
+import 'package:flutter_boilerplate/bloc/search_bloc/search_bolc_state.dart';
+import 'package:flutter_boilerplate/pages/search/search_list.dart';
 
 class SearchBody extends StatelessWidget {
   @override

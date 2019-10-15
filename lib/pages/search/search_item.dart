@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import 'package:flutter_boilerplate/model/search/search.item.dart';
+import 'package:flutter_boilerplate/model/search/search_item.dart';
 
 class SearchResultItem extends StatelessWidget {
   final SearchItem item;

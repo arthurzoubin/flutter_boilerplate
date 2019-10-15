@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_boilerplate/pages/search/search.form.dart';
+import 'package:flutter_boilerplate/pages/search/search_form.dart';
 
 class SearchPage extends StatelessWidget {
   @override

@@ -1,11 +1,11 @@
 import 'package:bloc/bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
-import 'package:flutter_boilerplate/bloc/search_bloc/search.bloc.event.dart';
-import 'package:flutter_boilerplate/bloc/search_bloc/search.bolc.state.dart';
-import 'package:flutter_boilerplate/model/search/search.error.dart';
-import 'package:flutter_boilerplate/model/search/search.list.dart';
-import 'package:flutter_boilerplate/services/api/search/search.services.dart';
+import 'package:flutter_boilerplate/bloc/search_bloc/search_bloc_event.dart';
+import 'package:flutter_boilerplate/bloc/search_bloc/search_bolc_state.dart';
+import 'package:flutter_boilerplate/model/search/search_error.dart';
+import 'package:flutter_boilerplate/model/search/search_list.dart';
+import 'package:flutter_boilerplate/services/api/search/search_services.dart';
 
 class GithubSearchBloc extends Bloc<GithubSearchEvent, GithubSearchState> {
   @override
